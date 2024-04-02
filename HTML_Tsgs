@@ -96,6 +96,7 @@
 <button>	Defines a clickable button
 <datalist>	Specifies a list of pre-defined options for input controls
 <output>	Defines the result of a calculation
+<marquee> attributs -> { scrollamount:"5"  bgcolor="red"  direction="left"  behavior="scroll, alternate,"  loop="3"  onMouseOver="this.stop()"}
 
 
 forms atributes 
